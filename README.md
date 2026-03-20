@@ -11,4 +11,4 @@ Projeto desenvolvido para praticar HTML e estruturação de páginas web.
 Evoluir habilidades em desenvolvimento web e criação de interfaces.
 
 ## 🔗 Acesse o projeto
-[Acessar projeto online](https://github.com/brunotech11/restaurante)
+[Acessar projeto online](https://brunotech11.github.io/restaurante/)
